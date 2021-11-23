@@ -19,7 +19,7 @@
 		afficherTableau($users, $headers);
 	?>
 
-	<a href=formulaireUtilisateur.php?id=0 >Ajouter un membre d'équipage au Nostromo</a> 
+	<a href=formulaireUtilisateur.php?id=0 >Ajouter un membre d'équipage du Nostromo</a> 
     </body>
 </html>
 
